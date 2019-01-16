@@ -24,8 +24,8 @@ github_username: twofyw
 
 repository: Twofyw/twofyw.github.io
 
-#github:
-#  repo:           https://github.com/twofyw
+github_icon:
+  repo:           https://github.com/twofyw
 
 # Build settings
 #markdown: kramdown
