@@ -24,8 +24,8 @@ github_username: twofyw
 
 repository: Twofyw/twofyw.github.io
 
-github:
-  repo:           https://github.com/twofyw
+#github:
+#  repo:           https://github.com/twofyw
 
 # Build settings
 #markdown: kramdown
@@ -38,11 +38,11 @@ paginate:         5
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hydeout
+remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate  
-remote_theme: fongandrew/hydeout
 
 # disqus
 disqus:
