@@ -27,6 +27,8 @@ repository: Twofyw/twofyw.github.io
 github_icon:
   repo:           https://github.com/twofyw
 
+google_analytics: UA-133155562-1
+
 # Build settings
 #markdown: kramdown
 #theme: minima
