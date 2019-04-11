@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GSoC 2019 Proposal for Improving the Chinese ASR Pipeline"
-date:   2019-05-12 00:00:00 +0800
+date:   2019-05-12 01:00:00 +0800
 categories: ML
 ---
 
