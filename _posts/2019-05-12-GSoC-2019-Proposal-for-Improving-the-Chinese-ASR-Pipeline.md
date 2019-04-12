@@ -5,7 +5,7 @@ date:   2019-05-12 01:00:00 +0800
 categories: ML
 ---
 
-This is the proposal I submitted to this [project](https://sites.google.com/site/distributedlittleredhen/summer-of-code/google-summer-of-code-2019-ideas-page#TOC-1.-Automatic-Speech-Recognition-for-Chinese) from [Red Hen Lab](https://sites.google.com/site/distributedlittleredhen/home), applying for Google Summer of Code 2019. I must admit that the problem description is quite daunting at first glance, because of the lengthy introduction, and sentences like "Red Hen is excited to be working with **skilled** students on **advanced** projects". Nevertheless, they have received my proposal, along with other unprecedented **63 proposals** submitted this year. I hope my pre-proposal emails with professor [Francis Steen](https://www.linkedin.com/in/ffsteen) can help me get this internship. 
+This is the proposal I submitted to this [project](https://sites.google.com/site/distributedlittleredhen/summer-of-code/google-summer-of-code-2019-ideas-page#TOC-1.-Automatic-Speech-Recognition-for-Chinese) from [Red Hen Lab](https://sites.google.com/site/distributedlittleredhen/home), applying for Google Summer of Code 2019. I must admit that the problem description is quite daunting at first glance, because of the lengthy introduction, and sentences like "Red Hen is excited to be working with **skilled** students on **advanced** projects". Nevertheless, they have received my proposal, along with other unprecedented **63 proposals** submitted this year. I hope my pre-proposal [emails](/assets/files/Gmail - Pre-proposal discussion for Chinese ASR.pdf) with professor [Francis Steen](https://www.linkedin.com/in/ffsteen) can help me get this internship. 
 
 > Wenxiang Yang
 >
