@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intership Application Essay"
+title:  "Internship Application Essay"
 date:   2020-01-09 0:0:00 +0800
 categories: update
 ---
