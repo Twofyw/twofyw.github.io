@@ -5,7 +5,7 @@ date:   2020-01-09 0:0:00 +0800
 categories: update
 ---
 
-# Please describe one project or research that you focused on. Must include role you played, difficulties, learnings and reflection. (About 800 words)
+## Please describe one project or research that you focused on. Must include role you played, difficulties, learnings and reflection. (About 800 words)
 
 The research that I am most proud of is a 10-month long study of topological improvements of the semantic segmentation of structural objects. During this time, I was a Research Assistant at the Tongji Deep Learning Lab. Guided by Prof. Yin Wang and two Facebook Research Scientists, Dr. Saikat Basu and Dr. Guan Pang, we concentrated on improving the design of loss functions to improve the connectivity of semantic segmentation of linear structures. The three main difficulties I faced were theoretical, evaluation, and engineering challenges. It was my responsibility to design and explain the technique based on the principles of statistical learning theories, search for appropriate alternative metrics suitable to our scenario, and handle a large amount of experiment configurations and of data.
 
@@ -17,7 +17,7 @@ The experiments posed significant **engineering challenges**. To handle the expe
 
 The polygon metrics show 2.5–4.3% connectivity improvements and 7.0-14.6% fragment reduction while maintaining pixel-level metrics. In contrast, existing methods such as CRF and GAN methods, all of which I have implemented for comparison, usually perform worse than baseline as they rely too much on shallow appearance features. We have fused these ideas into another paper, titled Whole-Object Segmentation Using Regional Variance Losses, and submitted to CVPR 2020 as a co-author. My research experience in the field of remote sensing in computer vision has given me a deeper understanding of computer vision and equipped me with essential research methodologies. Additionally, I gained the experience of doing research in collaboration with other people. I have learned how to effectively cooperate with my co-author who provided valuable inspiration on how to quantify topological correctness and performed a theoretical analysis of synthetic data. I greatly appreciated the helpful guidance in direction and on how to write a paper from my professor and the Facebook research scientists. This experience has honed my essential skills which will help me contribute to Sony as a Machine Learning practitioner.
 
-# 2. Please describe what you would like to contribute through the position you are applying in Sony, from the aspect of knowledge/skills or experience. (About 500 words)
+## 2. Please describe what you would like to contribute through the position you are applying in Sony, from the aspect of knowledge/skills or experience. (About 500 words)
 
 Sony is internationally known for its emotion-provoking products that are full of creativity and technology. Personally, the PlayStation series has filled the childhood of my brother and me with joy and strengthened friendships in our lives. I aspire to stay with Sony in the long-term while seeking to contribute to Sony by applying the following abilities to solve challenging problems: data science skills, Computer Vision knowledge, and the ability to use machine learning to solve domain-specific problems.
 
