@@ -5,7 +5,12 @@ date:   2020-02-10 23:00:00 +0800
 categories: update
 ---
 
-# 新型冠状病毒，社会与你——数据科学家的视角
+>翻译：[Covid-19, your community, and you — a data science perspective](https://www.fast.ai/2020/03/09/coronavirus/)
+
+>作者：Jeremy Howard 和 Rachel Thomas
+
+>翻译：杨文翔
+
 > 我们是数据科学家，也就是说，我们的工作是了解如何分析和解释数据。当我们分析和新型冠状病毒（新冠病毒）有关的数据时，我们非常担心。社会上最脆弱的部分，老年人和穷人，处于最大的风险之中，但是控制疾病的传播和影响要求我们所有人改变自己的行为。定期彻底洗手，远离人群，取消活动，并且请勿触摸脸部。在这篇文章中，我们解释了我们为什么要关注，您也应该关注。有关您需要了解的关键信息的出色总结，请阅读Ethan Alley（开发非营利性组织以降低流行病风险的技术的总裁）的 [Corona in Brief](https://docs.google.com/document/u/1/d/1vumYWoiV7NlVoc27rMQvmVkVu5cOAbnaW_RKkq2RMaQ/mobilebasic?fbclid=IwAR0If1zzDDldgAy3DZmFhaxAmP046-dwAE_LCj3l9su2XLYpZe2By8mCj1A)。
 
 ## 我们亟需一个有效的医疗系统
